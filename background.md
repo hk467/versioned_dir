@@ -7,3 +7,7 @@ Next, use git add to add this file to Git, and use git status to check that
 the file is added. Finally, use git commit -a to commit your change, writing 
 a suitable “commit message”. Once committed, use git status to check that 
 there is nothing left to commit, and that the working directory is clean.
+
+Make some changes to background.md. Commit those changes. Push those changes 
+to GitHub. Check on the GitHub webpage that you can see the changes and see 
+the commit message that you used.
